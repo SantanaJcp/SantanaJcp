@@ -52,7 +52,7 @@
 </details>
 
 [twitter]: https://twitter.com/Santana_Jcp
-[youtube]: https://youtube.com/LosHerm
+[youtube]: https://www.youtube.com/channel/UChC8RBmULqNu6QSz7FFlJ2A
 [instagram]: https://instagram.com/Santana.Jcp
 [linkedin]: https://www.linkedin.com/in/jean-carlos-p%C3%A9rez-santana-427882178/
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
