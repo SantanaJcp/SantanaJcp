@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Santana_Jcp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSantana_Jcp&screen_name=Santana_Jcp)
 
-## I'm a enthusiast Developer!
+## I'm a ... am i?
 
 - 🔭 I’m currently working on something cool / Kustomizzzer soon !!!
 - 🌱 I’m currently learning Deep Cloud development 
