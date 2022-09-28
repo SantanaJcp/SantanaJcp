@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on something cool / Kustomizzzer soon !!!
 - 🌱 I’m currently learning Deep Cloud development 
 - 👯 I’m looking to collaborate with other content developers on indie projects
-- 🥅 2020 Goals: Start contributing to Open Source projects
+- 🥅 2022 Goals: Start contributing to Open Source projects
 - 🤣 Moving again to github...
 
 ### Spotify Playing 🎧
