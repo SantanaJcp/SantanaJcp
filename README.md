@@ -5,9 +5,6 @@
 ## I'm a ... am i?
 - 🤣 Moving again to github...
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/l40yq4u06vc8578qq3ouw11h2)
-
 ### Connect with me:
 
 [<img align="left" alt="SantanaJcp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -37,14 +34,6 @@
 <br />
 <br />
 
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SantanaJcp&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/Santana_Jcp
 [youtube]: https://www.youtube.com/channel/UChC8RBmULqNu6QSz7FFlJ2A
